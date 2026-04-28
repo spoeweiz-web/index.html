@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <!-- 🔁 AUTO-RELOAD: Seite wird alle 2 Minuten neu geladen -->
+    <!-- 🔁 AUTO-RELOAD: Seite wird alle 10 Minuten neu geladen -->
     <meta http-equiv="refresh" content="600">
     <title>TV Diashow</title>
     <style>
@@ -22,8 +22,9 @@
     </style>
 </head>
 <body>
-    <!-- 🌐 HIER kommt der Google-Slides-Link rein -->
-    https://docs.google.com/presentation/d/e/2PACX-1vQvq2VBI9GmAPamOlMXpkqfGnAuwao2Ca8bfQaVQMOSc6ZBqUNgS4cH1L5AFXSEaPlUHBsLO-GodEbZ/pub?start=true&loop=true&delayms=10000>
-    </iframe>
+
+    <!-- 🌐 Google Slides wird hier eingebettet -->
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvq2VBI9GmAPamOlMXpkqfGnAuwao2Ca8bfQaVQMOSc6ZBqUNgS4cH1L5AFXSEaPlUHBsLO-GodEbZ/pub?start=true&loop=true&delayms=10000"></iframe>
+
 </body>
 </html>
